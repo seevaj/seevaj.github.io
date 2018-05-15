@@ -1,0 +1,35 @@
+
+
+div {
+    background-color: beige;   
+    }
+#wrapper {
+    padding: 2% 2% 20px;
+    margin-right: 20%;
+    margin-left: 20%
+    
+}
+
+p2 {
+    float:right;
+    padding: 2% 2% 12px;
+}
+
+h1 h3{
+    font-family: Arial, Times, Georgia;
+    
+}
+ 
+img {
+    float:right;
+    padding: 10px;
+    background-color:black;
+    margin-left:5%;
+    width:20%;
+}
+
+footer {
+    background-color:beige;
+    margin-right: 20%;
+    margin-left: 20%
+}
